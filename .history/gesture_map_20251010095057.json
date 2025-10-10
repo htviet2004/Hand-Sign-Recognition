@@ -1,0 +1,8 @@
+{
+  "1": {"label": "rock", "desc": "Index and pinky fingers extended", "recommended_samples": 300},
+  "2": {"label": "gun sign", "desc": "Thumb and index finger extended, other fingers folded", "recommended_samples": 300},
+  "3": {"label": "C shape", "desc": "Fingers curved to form a 'C' shape", "recommended_samples": 300},
+  "4": {"label": "L Sign", "desc": "Thumb and index finger extended, forming an 'L' shape", "recommended_samples": 300},
+  "5": {"label": "Cross Fingers", "desc": "Fingers crossed", "recommended_samples": 300},
+  "6": {"label": "Three Fingers Up", "desc": "Three fingers extended upwards", "recommended_samples": 300}
+}

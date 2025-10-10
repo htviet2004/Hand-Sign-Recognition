@@ -1,0 +1,16 @@
+{
+  "1": {"label": "palm", "desc": "All fingers extended and spread apart", "recommended_samples": 300},
+  "2": {"label": "fist", "desc": "All fingers folded into the palm", "recommended_samples": 300},
+  "3": {"label": "thumb up", "desc": "Thumb extended upward, other fingers folded", "recommended_samples": 300},
+  "4": {"label": "peace", "desc": "Index and middle fingers extended forming a 'V'", "recommended_samples": 300},
+  "5": {"label": "ok", "desc": "Thumb and index finger form a circle, other fingers extended", "recommended_samples": 300},
+  "6": {"label": "index up", "desc": "Index finger extended upward, others folded", "recommended_samples": 300},
+  "7": {"label": "pinch", "desc": "Thumb and index finger close together as if pinching", "recommended_samples": 300},
+  "8": {"label": "rock", "desc": "Index and pinky fingers extended, others folded", "recommended_samples": 300},
+  "9": {"label": "call", "desc": "Thumb and pinky extended outward, others folded", "recommended_samples": 300},
+  "a": {"label": "gun sign", "desc": "Thumb and index finger extended like a gun shape", "recommended_samples": 300},
+  "b": {"label": "L sign", "desc": "Thumb and index finger extended forming an 'L' shape", "recommended_samples": 300},
+  "12": {"label": "C sign", "desc": "Fingers curved to form a 'C' shape", "recommended_samples": 300},
+  "13": {"label": "cross fingers", "desc": "Index and middle fingers crossed", "recommended_samples": 300},
+  "14": {"label": "three fingers up", "desc": "Three fingers extended upward", "recommended_samples": 300}
+}
