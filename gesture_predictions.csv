@@ -325,7 +325,7 @@ gun sign,gun sign,Ngón cái và trỏ tạo hình khẩu súng
 index up,index up,"Chỉ giơ ngón trỏ, các ngón khác gập lại"
 C sign,C sign,Các ngón cong lại tạo hình chữ C
 index up,index up,"Chỉ giơ ngón trỏ, các ngón khác gập lại"
-call,fist,"Nắm tay lại, tất cả ngón gập vào lòng bàn tay"
+call,pinch,Ngón cái và trỏ kẹp sát như hành động bóp
 pinch,pinch,Ngón cái và trỏ kẹp sát như hành động bóp
 fist,fist,"Nắm tay lại, tất cả ngón gập vào lòng bàn tay"
 palm,palm,"Bàn tay mở, các ngón duỗi thẳng và tách ra"
@@ -697,7 +697,7 @@ Cross Fingers,Cross Fingers,Unknown
 C sign,C sign,Các ngón cong lại tạo hình chữ C
 L sign,L sign,Ngón cái và trỏ tạo hình chữ L
 pinch,pinch,Ngón cái và trỏ kẹp sát như hành động bóp
-gun sign,gun sign,Ngón cái và trỏ tạo hình khẩu súng
+gun sign,thumb up,"Ngón cái giơ lên, các ngón khác gập lại"
 fist,fist,"Nắm tay lại, tất cả ngón gập vào lòng bàn tay"
 L sign,L sign,Ngón cái và trỏ tạo hình chữ L
 gun sign,gun sign,Ngón cái và trỏ tạo hình khẩu súng
@@ -861,7 +861,7 @@ fist,fist,"Nắm tay lại, tất cả ngón gập vào lòng bàn tay"
 Three Fingers Up,Three Fingers Up,Unknown
 rock,rock,"Giơ ngón trỏ và út, các ngón khác gập lại"
 thumb up,thumb up,"Ngón cái giơ lên, các ngón khác gập lại"
-rock,L sign,Ngón cái và trỏ tạo hình chữ L
+rock,rock,"Giơ ngón trỏ và út, các ngón khác gập lại"
 gun sign,gun sign,Ngón cái và trỏ tạo hình khẩu súng
 ok,ok,"Ngón cái và trỏ tạo vòng tròn, các ngón khác duỗi"
 thumb up,thumb up,"Ngón cái giơ lên, các ngón khác gập lại"
@@ -1158,7 +1158,7 @@ Three Fingers Up,Three Fingers Up,Unknown
 index up,index up,"Chỉ giơ ngón trỏ, các ngón khác gập lại"
 palm,palm,"Bàn tay mở, các ngón duỗi thẳng và tách ra"
 gun sign,gun sign,Ngón cái và trỏ tạo hình khẩu súng
-rock,L sign,Ngón cái và trỏ tạo hình chữ L
+rock,rock,"Giơ ngón trỏ và út, các ngón khác gập lại"
 fist,fist,"Nắm tay lại, tất cả ngón gập vào lòng bàn tay"
 C sign,C sign,Các ngón cong lại tạo hình chữ C
 index up,index up,"Chỉ giơ ngón trỏ, các ngón khác gập lại"
@@ -1213,7 +1213,7 @@ ok,ok,"Ngón cái và trỏ tạo vòng tròn, các ngón khác duỗi"
 peace,peace,Ngón trỏ và giữa giơ tạo hình chữ V
 L sign,L sign,Ngón cái và trỏ tạo hình chữ L
 gun sign,gun sign,Ngón cái và trỏ tạo hình khẩu súng
-pinch,pinch,Ngón cái và trỏ kẹp sát như hành động bóp
+pinch,thumb up,"Ngón cái giơ lên, các ngón khác gập lại"
 palm,palm,"Bàn tay mở, các ngón duỗi thẳng và tách ra"
 C sign,C sign,Các ngón cong lại tạo hình chữ C
 fist,fist,"Nắm tay lại, tất cả ngón gập vào lòng bàn tay"
